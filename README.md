@@ -38,4 +38,5 @@ Smart headband + mobile app + cloud system to **detect seizures in real-time** a
 ---
 
 ## 📬 Contact
-- 🌐 [Website]((https://abdulrahman-shaaban.github.io/NURO-Website/)) 
+- 🌐 [Website](https://abdulrahman-shaaban.github.io/NURO-Website/)
+- 
